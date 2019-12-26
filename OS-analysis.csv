@@ -1,0 +1,16 @@
+,Mac,<>,Windows,<>,GNU/Linux,^
+total files,106000,p<0.0001,45000,p=0.1462,61000,p<0.0057
+total folders,19000,p<0.0001,4000,p=0.0801,6000,p<0.0001
+collection size in GB,109,p<0.0001,59,p=0.0017,117,p=0.7092
+# root folders,15.5,p<0.0001,22,p=0.0013,14.7,p=0.5762
+branching factor,5,p=0.0417,3.8,p=0.4250,4,p=0.3247
+max tree breadth,5100,p<0.0001,1000,p=0.0604,1400,p<0.0001
+max tree depth,17,p<0.0001,14,p=0.8043,14,p<0.0006
+mean folder depth,7.7,p<0.0001,5.9,p=0.4093,6.1,p<0.0006
+waist depth,7,p<0.0001,5.2,p=0.2547,5.7,p<0.0001
+% switches,17,p=0.0175,15,p<0.0001,11,p<0.0001
+unfiled files,3,p<0.0001,8.3,p=0.1942,5.9,p<0.0025
+mean files per folder,6,p<0.0001,9,p=0.0132,11,p<0.0001
+% empty folders,8,p=0.0003,13,p<0.0001,5,p<0.0001
+mean file depth,7,p<0.0001,5.5,p=0.5407,5.8,p<0.0001
+file waist depth,6.5,p<0.0001,5.2,p=0.9699,5.2,p=0.0007
