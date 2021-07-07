@@ -1,0 +1,10 @@
+category (see file 1 for explanation),lognormal median file size (in KB),lognormal mean file size (in KB),lognormal standard deviation of file sizes (in KB),"see manuscript method section for explanation of lognormal statistics, see R scripts for demonstration"
+all,9.025024028,730.3251907,19.38081453,
+darwin,7.954528757,532.8117247,18.17055278,
+win32,11.52145405,1085.970547,20.39521851,
+linux,10.82777225,1739.766342,24.22256562,
+knowledge work,12.90427164,925.5378345,18.6024168,
+other work,17.50750525,1809.722763,21.02581363,
+IT work,3.565525369,126.2449334,14.45329093,
+study,6.616155347,429.8032345,17.97938588,
+personal use,11.49862134,1346.116771,21.89682308,

@@ -1,0 +1,10 @@
+category (see file 1 for explanation),Median file size (in KB),Mean file size (in KB),Standard deviation of file sizes (in KB),Maximum file size (in KB),Normal stats are provided for comparison to prior works; please refer to lognormal stats since data are highly skewed
+all,5.271484375,1528.647626,83812.23874,265931072,
+darwin,4.657226563,1361.452531,80916.20861,134423104,
+win32,7.6875,1673.725732,50732.05874,61898304,
+linux,4.596679688,2236.45735,148417.2171,265931072,
+knowledge work,8.662109375,1472.909928,46871.95557,61898304,
+other work,11.88476563,2121.050713,97545.27567,129429595.2,
+IT work,2.266601563,1165.093925,62773.05855,62313472,
+study,3.6875,1154.554709,104978.5879,265931072,
+personal use,7.775390625,2284.257093,76715.54713,98145726.4,

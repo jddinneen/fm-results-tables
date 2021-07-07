@@ -1,0 +1,10 @@
+grouped by,category,files / file sizes analysed,participants (n=),note,see table 1 of manuscript for explanation of groups
+operating system,all,45638253,346,minus two outliers,
+operating system,darwin (macOS),29251483,169,,
+operating system,win32 (windows),11921985,135,,
+operating system,linux,4464785,42,,
+collection use,knowledge work,11387302,93,,
+collection use,other work,7373505,48,reported as 38 in manuscript (e.g. table 1)?,
+collection use,IT work,5978892,24,minus one outlier,
+collection use,study,15361348,142,minus one outlier,
+collection use,personal use,5537206,39,,
